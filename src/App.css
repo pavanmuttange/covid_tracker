@@ -1,0 +1,16 @@
+.grid-container{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin-top: 50px;
+  text-align: center;
+  row-gap: 50px;
+
+}
+h1{
+  text-align: center;
+ 
+}
+.mh2{
+  text-align: center;
+ 
+}
